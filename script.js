@@ -28,7 +28,7 @@ const perguntas = [
         afirmacao: "afirmação 3"
         },
         {
-        texto:"Educaççao fisica.",
+        texto:"Educação fisica.",
         afirmacao: "afirmação 4"
         }
     ]
@@ -38,11 +38,11 @@ const perguntas = [
     enunciado: "Qual sua música favorita?",
     alternativas: [
         {
-        texto:"No Idea-Don Toliver",
+        texto:"No Idea - Don Toliver",
         afirmacao: "afirmação 5"
         },
         {
-        texto:"Confissões-KayBlack.",
+        texto:"Confissões - KayBlack.",
         afirmacao: "afirmação 6"
         }
     ]
