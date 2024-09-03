@@ -6,44 +6,44 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Qual sua cor favorita?",
+    enunciado: "Qual seria a opção menos pior para você?",
     alternativas: [
         {
-            texto:"roxo",
-            afirmacao: "afirmação 1"
+            texto:"Ficar junto com a pessoa que você é apaixonado(a), e saber que com 25 anos de idade você morrerá",
+            afirmacao: "Que legal, você prefere deixar de viver sua vida e consquistar seus sonhos hahaha"
         },
         {
-        texto:"rosa",
-        afirmacao: "afirmação 2"
+        texto:"Ter muito dinheiro e casar com um mendingo",
+        afirmacao: "Parabéns você vai ter muito dinheiro, mas viverá infeliz com um mendingo que você não ama"
         }
     ]
 },
 
 {
-    enunciado: "Qual sua matéria favorita?",
+    enunciado: "Qual melhoria você mais queria que fizessem em sua escola?",
     alternativas: [
         {
 
-        texto: "Matemática.",
-        afirmacao: "afirmação 3"
+        texto: "Remover todas as plataformas digitais com conteúdos escolares, e atividades",
+        afirmacao: "Realmente uma escolha muito boa, mas e se você tivesse escolhido a outra alternativa, seria incrivel ter educação fisica todos os dias"
         },
         {
-        texto:"Educação fisica.",
-        afirmacao: "afirmação 4"
+        texto:"Ter Educação fisica todos os dias.",
+        afirmacao: "Que máximo ter educação fisica todos os dias, mas não existir essas plataformas seria muito melhor"
         }
     ]
 },
 
 {
-    enunciado: "Qual sua música favorita?",
+    enunciado: "Qual foi o melhor presidente?",
     alternativas: [
         {
-        texto:"No Idea - Don Toliver",
-        afirmacao: "afirmação 5"
+        texto:"Bolsonaro",
+        afirmacao: "Tão bom que não continou esse ano HAHAHA"
         },
         {
-        texto:"Confissões - KayBlack.",
-        afirmacao: "afirmação 6"
+        texto:"Lula.",
+        afirmacao: "ELE É FODA, TODO MÊS 200 NA CONTA KKKK"
         }
     ]
 }
